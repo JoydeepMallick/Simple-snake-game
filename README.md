@@ -5,14 +5,14 @@ My first tinkering with windows curses module.
 Do Note :-
 In order to install curses module using pip:-
 
-*For Windows based systems *
+For Windows based systems 
 ```prompt
 pip install windows-curses
 
 ```
 
 
-*For Unix/Linux based systems *
+For Unix/Linux based systems 
 ```terminal
 pip install curses
 
