@@ -2,7 +2,9 @@
 My first tinkering with windows curses module.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
-Do Note :-
+
+##### Do Note :-
+
 In order to install curses module using pip:-
 
 For Windows based systems 
